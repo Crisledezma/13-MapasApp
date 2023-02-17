@@ -1,0 +1,9 @@
+.map-container {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgb(252,254,254);
+  background: linear-gradient(0deg, rgba(252,254,254,1) 0%, rgba(207,240,250,1) 73%, rgba(136,235,255,1) 100%);
+}
